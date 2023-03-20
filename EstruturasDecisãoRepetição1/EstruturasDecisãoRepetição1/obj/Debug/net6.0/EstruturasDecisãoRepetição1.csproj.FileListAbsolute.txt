@@ -1,0 +1,15 @@
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\bin\Debug\net6.0\EstruturasDecisãoRepetição1.exe
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\bin\Debug\net6.0\EstruturasDecisãoRepetição1.deps.json
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\bin\Debug\net6.0\EstruturasDecisãoRepetição1.runtimeconfig.json
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\bin\Debug\net6.0\EstruturasDecisãoRepetição1.dll
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\bin\Debug\net6.0\EstruturasDecisãoRepetição1.pdb
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\EstruturasDecisãoRepetição1.csproj.AssemblyReference.cache
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\EstruturasDecisãoRepetição1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\EstruturasDecisãoRepetição1.AssemblyInfoInputs.cache
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\EstruturasDecisãoRepetição1.AssemblyInfo.cs
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\EstruturasDecisãoRepetição1.csproj.CoreCompileInputs.cache
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\EstruturasDecisãoRepetição1.dll
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\refint\EstruturasDecisãoRepetição1.dll
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\EstruturasDecisãoRepetição1.pdb
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\EstruturasDecisãoRepetição1.genruntimeconfig.cache
+C:\Users\weler\source\repos\EstruturasDecisãoRepetição1\EstruturasDecisãoRepetição1\obj\Debug\net6.0\ref\EstruturasDecisãoRepetição1.dll
